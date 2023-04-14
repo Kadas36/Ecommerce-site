@@ -4,7 +4,7 @@ import Sidebar from "../../components/sidebar/sidebar";
 import Topbar from "../../components/topbar/topbar";
 import "./profile.css";
 
-export default function profile() {
+export default function Profile() {
   return (
     <>
       <Topbar />

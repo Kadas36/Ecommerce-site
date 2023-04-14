@@ -1,8 +1,6 @@
 import "./online.css";
 
 export default function online({ user }) {
-  console.log("online log");
-  console.log(user);
   return (
     <div>
       <li className="rightbarFriend">

@@ -58,7 +58,7 @@ export const Posts = [
     photo: "assets/post/1.jpg",
     date: "5 mins ago",
     userId: 1,
-    like: 32,
+    like: 12,
     comment: 9,
   },
   {
@@ -116,7 +116,7 @@ export const Posts = [
     photo: "assets/post/8.jpg",
     date: "3 days ago",
     userId: 8,
-    like: 15,
+    like: 10,
     comment: 1,
   },
   {
